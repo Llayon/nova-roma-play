@@ -1,0 +1,223 @@
+{
+  "release": "2026-10-27",
+  "sourceCommit": "a5fa3d0a78563282defc2d921ad460c4a7126099",
+  "base": "/nova-roma-play/",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gitBlob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "assets/BitmapFont-wLWXjnJz.js",
+      "bytes": 34517,
+      "sha256": "a4082305a38ca7d07bbcb2aa58466445df9be1b27fc4ef56983b74852b7009a1",
+      "gitBlob": "fa6a30fb0a8ceb38227f18ba435c3d5f91420b67"
+    },
+    {
+      "path": "assets/BrowserWorldRenderer-DyZ-fYVQ.js",
+      "bytes": 152686,
+      "sha256": "1f22ab6889d329940b8cf68f614a0636f2f274a10275920d2ff0cc4be0c1ed3d",
+      "gitBlob": "728784b4303504f7f5327d6d55c26a0d89ebf9fa"
+    },
+    {
+      "path": "assets/BufferResource-CYOzzp4m.js",
+      "bytes": 10690,
+      "sha256": "c90c5aede9c20db5a73344e55f21df8a93c4001117fa6cf95ccd33e25dadba49",
+      "gitBlob": "dcec167781293622cd7d634e3b45830b060f907f"
+    },
+    {
+      "path": "assets/CanvasPool-CWmy1KaP.js",
+      "bytes": 782,
+      "sha256": "fd33f331500986b52b0e1b6819324ceead53175213f010ee3f93563539217164",
+      "gitBlob": "aab65274238b50233ccd73e13473d5fe2a4e626f"
+    },
+    {
+      "path": "assets/CanvasRenderer-COzCEKYG.js",
+      "bytes": 23426,
+      "sha256": "4c12fd01870b5875fb149cfc5be6b5d033a479da1725df42eef5ee0524081a89",
+      "gitBlob": "f44f7dfc4dac971aef75ae70f6c3138dc779f2b1"
+    },
+    {
+      "path": "assets/Filter-BYBgkrvT.js",
+      "bytes": 907,
+      "sha256": "ce416b80ab06ffc91fd84f31c0dd9656e6ffa7c73d1c7459b3ad5485199e43e0",
+      "gitBlob": "ce2db00d52e930d0a4350dd9098cb9d23585dd15"
+    },
+    {
+      "path": "assets/Geometry-D2feF07x.js",
+      "bytes": 19427,
+      "sha256": "247aa20bf9a57d997639b1a014c966327b20f564251ce046ac27cb8b9c351d17",
+      "gitBlob": "f54fbb181500aa3f79e28439f7d8478ba6a3decc"
+    },
+    {
+      "path": "assets/RenderTargetSystem-PQcE1K1F.js",
+      "bytes": 46398,
+      "sha256": "1d7b9e543144855d9efeafe5ebb19a48da1e62a8728fc47164cf747369762d10",
+      "gitBlob": "bd8083647c8828bffd76366dbabeff721fcada27"
+    },
+    {
+      "path": "assets/WebGLRenderer-D6yYm-Mc.js",
+      "bytes": 68678,
+      "sha256": "f64bf9642633bc2b3ff9f3e74a972dd6b950461e56794f72079b439d5c7ea5e2",
+      "gitBlob": "a58c100df3839f23d27e9fdbce2593bf041cf46d"
+    },
+    {
+      "path": "assets/WebGPURenderer-BLW8gTVQ.js",
+      "bytes": 38488,
+      "sha256": "61d07dcd082ef8d1ee2080b98015e35e7bb355f28a9aa20c7df351f026aa8bc7",
+      "gitBlob": "d6857eeacf430036c5428dd9f01ea1fa75f6d1ce"
+    },
+    {
+      "path": "assets/browserAll-mjRfl-M_.js",
+      "bytes": 43263,
+      "sha256": "8befb3344584b316c10b6497a0ff5d940bb9c44629a467d2db82355c3a58fbb9",
+      "gitBlob": "4c5708c3f4e43eca6396bdcb4e57cb9a14e3b95e"
+    },
+    {
+      "path": "assets/index-CNE1tFTR.css",
+      "bytes": 31553,
+      "sha256": "8540d8986b1f833fd978ddcafb39ed186d54bdbd547668146fed96b56d771569",
+      "gitBlob": "f8d9af8403f3fe4513f1b7e1b394cf5f00f0056b"
+    },
+    {
+      "path": "assets/index-Dqlof0FF.js",
+      "bytes": 1731585,
+      "sha256": "7d333de8f0d16a70ff7d4a99972aaa3c0f8d0651afa6f3a6e3f023c30aad7582",
+      "gitBlob": "5e53df757dd01402ed13b046d0acaac657f7673f"
+    },
+    {
+      "path": "assets/webworkerAll-BT5ItvTY.js",
+      "bytes": 12010,
+      "sha256": "6d38b01a5d88c7570e731fd8629586ad9a68e6dc3c7beee4f8db6be63a3b3338",
+      "gitBlob": "310b8693f176c1c92d6ce2dbd6e9fe68f18991ce"
+    },
+    {
+      "path": "graphics/buildings/generated/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "gitBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "graphics/buildings/generated/buildings_core.generated.png",
+      "bytes": 69971,
+      "sha256": "713b661a3cc08b06f8dabc713422574417ecffe623195db3919280ce05e6adc7",
+      "gitBlob": "908bfcfcbdd9569aab4f1988607fa2c62274d0e8"
+    },
+    {
+      "path": "graphics/buildings/generated/buildings_large.generated.png",
+      "bytes": 70735,
+      "sha256": "12fcdc790da104d87e4e68fb997a3a34bc7d15ee7cd6ed6e15a02f20dd4bd06b",
+      "gitBlob": "e6fe419b4a2d33c17125011b924e583837300e5c"
+    },
+    {
+      "path": "graphics/generated/terrain_chatgpt_iso_v1.png",
+      "bytes": 2432681,
+      "sha256": "0aa1d0b36fdc977d3db8ac27e4a238c9401234513af16f567e6b300459a688da",
+      "gitBlob": "cf71e8bfa0b66ebe49aa1aecfb009519091c70d2"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_full_0.png",
+      "bytes": 194976,
+      "sha256": "46426900578f1b5da989223f1afaa8f6feab1dd6290ca6728d2ed734bb07aa2e",
+      "gitBlob": "a340f3c9bc516560144df11ebcefa497472e02bd"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_full_1.png",
+      "bytes": 1134719,
+      "sha256": "5c113e05c29ff72a0d7bdcaf779626abe4bfe704b4e1f9cb718fba2743192104",
+      "gitBlob": "fb220998361a3e3458d38408824e053d28eb78b8"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_full_2.png",
+      "bytes": 645337,
+      "sha256": "891a8a0a0f64b556251b33d50e16b1d2b1e86f835e5b8f96cd0e6068b61b9d00",
+      "gitBlob": "7226c98dc13273c3d349e7404c3e0a404579e341"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_states_0.png",
+      "bytes": 50922,
+      "sha256": "5f64da34c9beed025bda633e338b07a0ba2834966480225dd728b99f9a908551",
+      "gitBlob": "c5033686dc08649e6f1309bbe7408b75c255de99"
+    },
+    {
+      "path": "graphics/roman-units-11/roman_units_11_1.png",
+      "bytes": 101103,
+      "sha256": "1c1f98c91893886854e1b8aacb760ee843767834a11c905968463d5476685bbf",
+      "gitBlob": "36909424a2938d315b8d486d97633f4e0b6d0960"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-dry-01-128x64.png",
+      "bytes": 125843,
+      "sha256": "092cae0f989d13c565c3afa2c80f2bb19d0132e06e6564fc8189cd4fa71320d7",
+      "gitBlob": "523024178f5fd52f0107e3a64fb6fbb672cb546d"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-dry-02-128x64.png",
+      "bytes": 116397,
+      "sha256": "7ede7415be0826483c6ffdc7efc8eea547181f58d3b0ed45b5f8bfb4b1d2219d",
+      "gitBlob": "5930027cf2458de6dad1a6ab50a003e64468c457"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-grass-01-128x64.png",
+      "bytes": 141971,
+      "sha256": "e13bcca057e22724c8aa8ffa19c0994afb4e4dcce9eab762e62107453c133deb",
+      "gitBlob": "03a6cbafbb005a9bad10400613cfef31b74e9166"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-grass-02-128x64.png",
+      "bytes": 134677,
+      "sha256": "7eabead18767ed3276a994b5c50f22d4fb02462130b25173b966112e7bb6bfaf",
+      "gitBlob": "ce12fc7d321c9890e966d0eebccba189599fd950"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-rocky-01-128x64.png",
+      "bytes": 122792,
+      "sha256": "48e7f23320e0ac733cd1bcaecfd03e4ff9accb70b6438ba13672b1121d85533a",
+      "gitBlob": "247c3feda80fd5e03f5fc7cfed463b6ed1d01d14"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-rocky-02-128x64.png",
+      "bytes": 120755,
+      "sha256": "d98a47ed47b53ae1e58fc9323709b62e29cb64c4371088fb1b1ee018360b2862",
+      "gitBlob": "6ac72adc7ef5d792477a433e899d29533b76c941"
+    },
+    {
+      "path": "graphics/sbs/overworld-forest-flat-128x64.png",
+      "bytes": 130735,
+      "sha256": "6fea23e43453d146d2af2450bff94b7b322f61cb921b750da38a77c7d4e29d7e",
+      "gitBlob": "2fb6540d6dd9319fcad9e649fdda457348ce87f5"
+    },
+    {
+      "path": "graphics/sbs/overworld-terrain-1-flat-128x64.png",
+      "bytes": 110931,
+      "sha256": "7bf80e0405fc7d0aa6743ddd4a678658393f77407a470da70a944117c0520cd0",
+      "gitBlob": "7f8f977b7b7caf0c7a6a10bd6e5a03fd2e14a5d8"
+    },
+    {
+      "path": "graphics/sbs/overworld-terrain-2-flat-128x64.png",
+      "bytes": 142970,
+      "sha256": "246e0f554870b38cf6eaf9b5f5806a3bd0669032e328443776795b3adb482dde",
+      "gitBlob": "2d57416fa76d803f20e422473423e82dcf2d3765"
+    },
+    {
+      "path": "graphics/sbs/overworld-water-flat-128x64.png",
+      "bytes": 100291,
+      "sha256": "4264a9a0c1a9829b0958984d1808f2b0f69e14ad53ad2bb0666906f63a5857e7",
+      "gitBlob": "964a4f4c987f61e3f1e096af31d010f7cce27df2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 455,
+      "sha256": "d5bc3f20083e0a3103b3b3ece63ddd1481a6b9f530fb6a0da644e74dc3f489a5",
+      "gitBlob": "de76a5a468534a283b860ffd076733bcef37ed12"
+    },
+    {
+      "path": "version.json",
+      "bytes": 122,
+      "sha256": "ece0ab7465babdf64289c4cc793d7da59da8d9a129732ee44a2604e8f6a9de13",
+      "gitBlob": "125ccc8dce4b9ed432a215c05f0c962ad9de7c31"
+    }
+  ]
+}
