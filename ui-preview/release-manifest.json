@@ -1,0 +1,223 @@
+{
+  "release": "2026-10-30-ui-preview",
+  "buildId": "ui-20261030-0d09745898b1",
+  "base": "/nova-roma-play/ui-preview/",
+  "sourceBaseCommit": "7cab76162f6981fe619d2a643b69404f99a0e40a",
+  "sourceWorkingTree": true,
+  "sourceFingerprint": "0d09745898b1f7ac39b5d2cbaecf40692272e46285546fbcd7f6d6b9f52f95ab",
+  "playerUi": "v2 via ?playerui=v2",
+  "housingArea": "hold-drag-release-confirm",
+  "purpose": "Phone testing preview; UI-11 real-client acceptance is open.",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gitBlob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "assets/BitmapFont-S_rjdxNF.js",
+      "bytes": 34481,
+      "sha256": "1486c1a10aacddeb29e36d99c9c83376e3c267808be1e72c8ab5055272ff08a4",
+      "gitBlob": "1696902fb9f99fb8bf3ed3fb36e4a8406285d47e"
+    },
+    {
+      "path": "assets/BrowserWorldRenderer-qxpmV-7n.js",
+      "bytes": 282383,
+      "sha256": "bbfbab67d368da2100fc83b684ae0f8d79ec08660417e508be6c17305ac0ac5e",
+      "gitBlob": "85b7637cf10f05ebd52782247074f1a75db5b939"
+    },
+    {
+      "path": "assets/BufferResource-TlANlWGG.js",
+      "bytes": 10621,
+      "sha256": "910018d023830372088a04e92e6f16f9773af79155c21c1745edeb73c0a40b6c",
+      "gitBlob": "6e8d563c068bb6f59e1bc6780e951b045d63dec1"
+    },
+    {
+      "path": "assets/CanvasPool-CZNscvKn.js",
+      "bytes": 797,
+      "sha256": "bcf0d1fa4b5472e87eb0b01374f40c05c476c5bddde788de4e4e03cc4aad8456",
+      "gitBlob": "7f2ada5a539965fb90a8bbddfdb31f19dca5b506"
+    },
+    {
+      "path": "assets/CanvasRenderer-6osElohQ.js",
+      "bytes": 23385,
+      "sha256": "ee96f1d23c2ce2c1a7c2761ab64ef00c488570488c8f9c2e4be1492899d70ac1",
+      "gitBlob": "cea5e4b097d5d24426813eb0df29fd3d1b6d48e2"
+    },
+    {
+      "path": "assets/Filter-pca_fqqd.js",
+      "bytes": 919,
+      "sha256": "457f70bad6454ca555aebac42a06be246e51c63a4a6964a357b8b0580fe9cb81",
+      "gitBlob": "d0959846e308e29193bdc2142af3181c364984cf"
+    },
+    {
+      "path": "assets/RenderTargetSystem-BHRTgJSp.js",
+      "bytes": 46347,
+      "sha256": "ad9570fa629f41ebae8f9d215b3e2bf79c4f283d2a65d3d50dc648f0010593aa",
+      "gitBlob": "762f339216c618722003d05402ef58411c83b570"
+    },
+    {
+      "path": "assets/WebGLRenderer-CZKiDq2t.js",
+      "bytes": 68644,
+      "sha256": "d893dec08a462238d68c83cb82e105f0561eba7fae2ad453d3650e826b1a6532",
+      "gitBlob": "0ce9d563e88273c1618a537ea9e0551770ba68d5"
+    },
+    {
+      "path": "assets/WebGPURenderer-Cdq1fOLD.js",
+      "bytes": 38451,
+      "sha256": "41b89ecf7df0f1e98445087e73eb85d55dae57855214813a073e1a1976d13b32",
+      "gitBlob": "608d654b6dc2caea0985f7fc6c80febb2c4bea7f"
+    },
+    {
+      "path": "assets/browserAll-BuQxUz4q.js",
+      "bytes": 43275,
+      "sha256": "bf4bc3c567a34f774cf893da0aff511f22f46d6fc5f8c2a18fe6b2687bf5b2a3",
+      "gitBlob": "228f0a65d675cf137c260b85d988dca092f3d3f8"
+    },
+    {
+      "path": "assets/index-BZN9Yp2u.css",
+      "bytes": 73209,
+      "sha256": "2c156bbad2cd9b75a8bba3d6c286e7491615dbeb7273d71449c58fc4860471e3",
+      "gitBlob": "18f1c964f0118e68fa8be028184ed657de9c0730"
+    },
+    {
+      "path": "assets/index-Dp6R2vU8.js",
+      "bytes": 1831960,
+      "sha256": "31d7f1b69ef61c2ab960af000178cc8cab3b583ccf6dd15e025e6bf27113812a",
+      "gitBlob": "7c4617dbaf5c826d937f902e7d7d1bd2061265a1"
+    },
+    {
+      "path": "assets/webworkerAll-Vg1mFqvf.js",
+      "bytes": 12015,
+      "sha256": "afb2c66fc6f5fe71b3fe3790f655d11078ab7ab9880fc8775e08a2f9e80b5f83",
+      "gitBlob": "26dcf4852f4f0b1d91b8cd902157a61347609a4b"
+    },
+    {
+      "path": "graphics/buildings/generated/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "gitBlob": "8b137891791fe96927ad78e64b0aad7bded08bdc"
+    },
+    {
+      "path": "graphics/buildings/generated/buildings_core.generated.png",
+      "bytes": 69971,
+      "sha256": "713b661a3cc08b06f8dabc713422574417ecffe623195db3919280ce05e6adc7",
+      "gitBlob": "908bfcfcbdd9569aab4f1988607fa2c62274d0e8"
+    },
+    {
+      "path": "graphics/buildings/generated/buildings_large.generated.png",
+      "bytes": 70735,
+      "sha256": "12fcdc790da104d87e4e68fb997a3a34bc7d15ee7cd6ed6e15a02f20dd4bd06b",
+      "gitBlob": "e6fe419b4a2d33c17125011b924e583837300e5c"
+    },
+    {
+      "path": "graphics/generated/terrain_chatgpt_iso_v1.png",
+      "bytes": 2432681,
+      "sha256": "0aa1d0b36fdc977d3db8ac27e4a238c9401234513af16f567e6b300459a688da",
+      "gitBlob": "cf71e8bfa0b66ebe49aa1aecfb009519091c70d2"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_full_0.png",
+      "bytes": 194976,
+      "sha256": "46426900578f1b5da989223f1afaa8f6feab1dd6290ca6728d2ed734bb07aa2e",
+      "gitBlob": "a340f3c9bc516560144df11ebcefa497472e02bd"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_full_1.png",
+      "bytes": 1134719,
+      "sha256": "5c113e05c29ff72a0d7bdcaf779626abe4bfe704b4e1f9cb718fba2743192104",
+      "gitBlob": "fb220998361a3e3458d38408824e053d28eb78b8"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_full_2.png",
+      "bytes": 645337,
+      "sha256": "891a8a0a0f64b556251b33d50e16b1d2b1e86f835e5b8f96cd0e6068b61b9d00",
+      "gitBlob": "7226c98dc13273c3d349e7404c3e0a404579e341"
+    },
+    {
+      "path": "graphics/roman-calibrated-09/roman_states_0.png",
+      "bytes": 50922,
+      "sha256": "5f64da34c9beed025bda633e338b07a0ba2834966480225dd728b99f9a908551",
+      "gitBlob": "c5033686dc08649e6f1309bbe7408b75c255de99"
+    },
+    {
+      "path": "graphics/roman-units-11/roman_units_11_1.png",
+      "bytes": 101103,
+      "sha256": "1c1f98c91893886854e1b8aacb760ee843767834a11c905968463d5476685bbf",
+      "gitBlob": "36909424a2938d315b8d486d97633f4e0b6d0960"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-dry-01-128x64.png",
+      "bytes": 125843,
+      "sha256": "092cae0f989d13c565c3afa2c80f2bb19d0132e06e6564fc8189cd4fa71320d7",
+      "gitBlob": "523024178f5fd52f0107e3a64fb6fbb672cb546d"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-dry-02-128x64.png",
+      "bytes": 116397,
+      "sha256": "7ede7415be0826483c6ffdc7efc8eea547181f58d3b0ed45b5f8bfb4b1d2219d",
+      "gitBlob": "5930027cf2458de6dad1a6ab50a003e64468c457"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-grass-01-128x64.png",
+      "bytes": 141971,
+      "sha256": "e13bcca057e22724c8aa8ffa19c0994afb4e4dcce9eab762e62107453c133deb",
+      "gitBlob": "03a6cbafbb005a9bad10400613cfef31b74e9166"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-grass-02-128x64.png",
+      "bytes": 134677,
+      "sha256": "7eabead18767ed3276a994b5c50f22d4fb02462130b25173b966112e7bb6bfaf",
+      "gitBlob": "ce12fc7d321c9890e966d0eebccba189599fd950"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-rocky-01-128x64.png",
+      "bytes": 122792,
+      "sha256": "48e7f23320e0ac733cd1bcaecfd03e4ff9accb70b6438ba13672b1121d85533a",
+      "gitBlob": "247c3feda80fd5e03f5fc7cfed463b6ed1d01d14"
+    },
+    {
+      "path": "graphics/sbs-variants/floor-rocky-02-128x64.png",
+      "bytes": 120755,
+      "sha256": "d98a47ed47b53ae1e58fc9323709b62e29cb64c4371088fb1b1ee018360b2862",
+      "gitBlob": "6ac72adc7ef5d792477a433e899d29533b76c941"
+    },
+    {
+      "path": "graphics/sbs/overworld-forest-flat-128x64.png",
+      "bytes": 130735,
+      "sha256": "6fea23e43453d146d2af2450bff94b7b322f61cb921b750da38a77c7d4e29d7e",
+      "gitBlob": "2fb6540d6dd9319fcad9e649fdda457348ce87f5"
+    },
+    {
+      "path": "graphics/sbs/overworld-terrain-1-flat-128x64.png",
+      "bytes": 110931,
+      "sha256": "7bf80e0405fc7d0aa6743ddd4a678658393f77407a470da70a944117c0520cd0",
+      "gitBlob": "7f8f977b7b7caf0c7a6a10bd6e5a03fd2e14a5d8"
+    },
+    {
+      "path": "graphics/sbs/overworld-terrain-2-flat-128x64.png",
+      "bytes": 142970,
+      "sha256": "246e0f554870b38cf6eaf9b5f5806a3bd0669032e328443776795b3adb482dde",
+      "gitBlob": "2d57416fa76d803f20e422473423e82dcf2d3765"
+    },
+    {
+      "path": "graphics/sbs/overworld-water-flat-128x64.png",
+      "bytes": 100291,
+      "sha256": "4264a9a0c1a9829b0958984d1808f2b0f69e14ad53ad2bb0666906f63a5857e7",
+      "gitBlob": "964a4f4c987f61e3f1e096af31d010f7cce27df2"
+    },
+    {
+      "path": "index.html",
+      "bytes": 477,
+      "sha256": "277ee0ea17f0b5aaf8010cf096a6f6a3e02db543987015b245fc3d41a56a74a0",
+      "gitBlob": "41bb947bc6d39bb824b1521f4f7e9e11f2fccb56"
+    },
+    {
+      "path": "version.json",
+      "bytes": 469,
+      "sha256": "72cc2f1e8ebabe4941476252bbb2e400a8ba0f620ca913f6907e59082f82f240",
+      "gitBlob": "a7a4ae1f5c4d7944376274c803bdade71ffcb3df"
+    }
+  ]
+}
