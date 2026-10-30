@@ -1,11 +1,13 @@
 {
-  "release": "2026-10-30-ui-preview",
-  "buildId": "ui-20261030-0d09745898b1",
+  "release": "2026-10-30-ui-controls-preview",
+  "buildId": "ui-controls-20261030-bb94b363ac40",
   "base": "/nova-roma-play/ui-preview/",
   "sourceBaseCommit": "7cab76162f6981fe619d2a643b69404f99a0e40a",
   "sourceWorkingTree": true,
-  "sourceFingerprint": "0d09745898b1f7ac39b5d2cbaecf40692272e46285546fbcd7f6d6b9f52f95ab",
+  "sourceFingerprint": "bb94b363ac40c3de86a37b094472d9cd3658634c0f0d4225aedaad2eacf02275",
   "playerUi": "v2 via ?playerui=v2",
   "housingArea": "hold-drag-release-confirm",
+  "multipleDemolition": "hold-drag-release-confirm",
+  "cameraControls": "WASD/arrows/mouse-edges",
   "purpose": "Phone testing preview; UI-11 real-client acceptance is open."
 }
