@@ -1,4 +1,4 @@
-import{D as nt,T as Z,C as U,M as ft,p as at,F as et,w as ht,E as Ft,f as Pt,t as X,v as pt,x as gt,y as j,z as N,H as St,I as rt,J as It,K as R,h as Ht}from"./BrowserWorldRenderer-BUWdvN9-.js";import{C as xt}from"./CanvasPool-CjhjzdZ0.js";import"./index-Bt_i5MwV.js";/**
+import{D as nt,T as Z,C as U,M as ft,p as at,F as et,w as ht,E as Ft,f as Pt,t as X,v as pt,x as gt,y as j,z as N,H as St,I as rt,J as It,K as R,h as Ht}from"./BrowserWorldRenderer-DlmMzJzc.js";import{C as xt}from"./CanvasPool-DG6Gdoh-.js";import"./index-DHIEONLi.js";/**
  * tiny-lru
  *
  * @copyright 2026 Jason Mulligan <jason.mulligan@avoidwork.com>

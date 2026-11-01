@@ -1,16 +1,16 @@
 {
-  "release": "2026-10-31-ui-road-touch-preview",
-  "buildId": "ui-road-touch-20261031-de2cfa9cf345",
+  "release": "2026-11-02-ui-road-confirm-preview",
+  "buildId": "ui-road-confirm-20261102-c45f0e993c3f",
   "base": "/nova-roma-play/ui-preview/",
   "sourceBaseCommit": "7cab76162f6981fe619d2a643b69404f99a0e40a",
   "sourceWorkingTree": true,
-  "sourceFingerprint": "de2cfa9cf345ff4ab9a3ecb1d4a12ee9d18fd7d463368ce00bd292dd2920b196",
+  "sourceFingerprint": "c45f0e993c3f6d4b3e9cd855326b9cfc837cace559ee68a6182dbfe97472d18a",
   "playerUi": "v2 via ?playerui=v2",
   "housingArea": "hold-drag-release-confirm",
   "multipleDemolition": "hold-drag-release-confirm",
   "cameraControls": "WASD/arrows/mouse-edges",
   "catalogue": "exclusive categories/items",
   "confirmation": "compact bottom-centred",
-  "touchRoad": "single-finger-continuous-paint",
+  "touchRoad": "draft-route-explicit-confirmation",
   "purpose": "Phone testing preview; UI-11 real-client acceptance is open."
 }
