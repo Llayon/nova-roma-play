@@ -1,5 +1,9 @@
 {
-  "release": "2026-10-27",
-  "sourceCommit": "a65504321611743f14427f5efb1a3eb7b33b2044",
-  "base": "/nova-roma-play/"
+  "release": "2026-11-06",
+  "sourceCommit": "687404674f9775d0e06ff8164d91583bd287eb08",
+  "sourceBranch": "codex/g23-housing-demand",
+  "base": "/nova-roma-play/",
+  "buildId": "game-20261106-68740467",
+  "defaultUi": "legacy",
+  "newUiQuery": "?playerui=v2"
 }
